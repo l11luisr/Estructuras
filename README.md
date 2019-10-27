@@ -4,10 +4,7 @@
                                         ALGORITMOS Y ESTRUCTURA DE DATOS
                                                    PRÁCTICA #1
 
-Nombre: Rodríguez Muñoz José Luis
-Práctica: Estructuras de datos
-Fecha: 24/Agosto/2019
-Descripción completa: Un número complejo z=x+iy se puede representar en forma polar r_θ. Utilizando una estructura
+Un número complejo z=x+iy se puede representar en forma polar r_θ. Utilizando una estructura
 para representar un número complejo, implemente un menú que permita al usuario efectuar N veces las
 operaciones aritméticas básicas entre dos números complejos capturados en su forma rectangular. Las
 funciones que se le pide implementar son:
