@@ -1,8 +1,8 @@
 
-									UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
-								  FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
-									  ALGORITMOS Y ESTRUCTURA DE DATOS
-											     PRÁCTICA #1
+					UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
+				      FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA         
+                                          ALGORITMOS Y ESTRUCTURA DE DATOS
+                                                     PRÁCTICA #1
 
 Nombre: Rodríguez Muñoz José Luis
 Práctica: Estructuras de datos
